@@ -1,0 +1,15 @@
+{
+    "name": "ccm_dashboard_mock.ccmdashboard_itemattributes",
+    "version": "0.0.1",
+    "description": "CCM Dashboard item attributes",
+    "keywords": [
+        "ui5",
+        "openui5",
+        "sapui5"
+    ],
+    "main": "webapp/index.html",
+    "scripts": {
+        "deploy-config": "npx -p @sap/ux-ui5-tooling fiori add deploy-config cf"
+    },
+    "devDependencies": { }
+}

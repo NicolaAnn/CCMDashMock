@@ -1,0 +1,6 @@
+ID;itemId;displayId;moduleId;moduleIx;messageIx;langu;checkClass;messageId;qualityStandard;defaultPriority;title;updatedOn;items_ID
+8ed1dda2-3401-4f15-95ce-6cd8cf811577;7e20e503-5f56-48ba-87af-eed733dbcda9;5c206395-5557-4bb5-875f-97aec920577c;5ee30591-d6e7-4ee3-93f1-747fdbd801df;1;1;EN;Check;MSG001;Standard;High;Item 1;2021-06-27;7e20e503-5f56-48ba-87af-eed733dbcda9
+7d50ca29-2f05-41f0-af21-d0ef6a005737;a7ea9455-93f9-48fc-8c31-80fa8985adca;5ee30591-d6e7-4ee3-93f1-747fdbd801df;e2d92726-8ae0-47c6-b5de-44c2a7f0cf87;2;1;EN;Check;MSG002;Standard;High;Item 2;2021-06-27;a7ea9455-93f9-48fc-8c31-80fa8985adca
+bee2a1ff-cc18-4256-84eb-686a4ddd9a4f;7c00671b-7a91-4e12-8dd9-4abcb297c9cd;e2d92726-8ae0-47c6-b5de-44c2a7f0cf87;323c035d-35e0-4940-80a4-1d121c01f175;3;1;EN;Check;MSG003;Standard;High;Item 3;2021-06-27;7c00671b-7a91-4e12-8dd9-4abcb297c9cd
+f15c7a30-3ef8-4000-a757-af46dad4c62f;1180af1d-6dab-410a-bfe0-34f653c724cc;323c035d-35e0-4940-80a4-1d121c01f175;b45018b8-9b5b-45af-bf7d-c13091272df4;4;1;EN;Check;MSG004;Standard;High;Item 4;2021-06-27;1180af1d-6dab-410a-bfe0-34f653c724cc
+0538633d-c7ea-448a-a66c-d043f11af19a;fb6f9106-85dc-4029-989f-98bdcc40517c;b45018b8-9b5b-45af-bf7d-c13091272df4;8ed1dda2-3401-4f15-95ce-6cd8cf811577;5;1;EN;Check;MSG005;Standard;High;Item 5;2021-06-27;fb6f9106-85dc-4029-989f-98bdcc40517c
